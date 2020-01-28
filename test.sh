@@ -1,3 +1,4 @@
+chmod +x test.sh
 #! /bin/bash
 
 func(){
